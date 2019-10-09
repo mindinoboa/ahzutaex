@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gubaezeng.rigpet.com/sitemap.xml
